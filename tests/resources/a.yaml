@@ -1,0 +1,7 @@
+first_name: Joey
+last_name: Tribbiani
+pets:
+  - name: Yasmine
+    kind: chick
+  - name: Duck
+    kind: duck
